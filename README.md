@@ -5,6 +5,6 @@ This is a work in progress. I am creating it using [Hugo](https://gohugo.io/). W
 
 Here is a preview of my current draft:
 
-![](C:\Users\Neil\Desktop\Git\website\example.PNG)
+![](example.PNG)
 
 For now, I am using the [Goa](https://themes.gohugo.io/hugo-goa/) theme. I like it because it is basic and is all-around practical. All credit for the theme is to [shenyobar](https://github.com/shenoybr) and the theme is available for download at the [Hugo-Goa repository](https://github.com/shenoybr/hugo-goa).
