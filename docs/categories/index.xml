@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Neil Yetz</title>
-    <link>http://example.org/categories/</link>
+    <link>https://ndyetz.github.io/Website/categories/</link>
     <description>Recent content in Categories on Neil Yetz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ndyetz.github.io/Website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/categories/about/</link>
+      <link>https://ndyetz.github.io/Website/categories/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://example.org/categories/about/</guid>
+      <guid>https://ndyetz.github.io/Website/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ad</title>
-      <link>http://example.org/categories/ad/</link>
+      <link>https://ndyetz.github.io/Website/categories/ad/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>http://example.org/categories/ad/</guid>
+      <guid>https://ndyetz.github.io/Website/categories/ad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>http://example.org/categories/articles/</link>
+      <link>https://ndyetz.github.io/Website/categories/articles/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://example.org/categories/articles/</guid>
+      <guid>https://ndyetz.github.io/Website/categories/articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Propaganda</title>
-      <link>http://example.org/categories/propaganda/</link>
+      <link>https://ndyetz.github.io/Website/categories/propaganda/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>http://example.org/categories/propaganda/</guid>
+      <guid>https://ndyetz.github.io/Website/categories/propaganda/</guid>
       <description></description>
     </item>
     
