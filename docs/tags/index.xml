@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Neil Yetz</title>
-    <link>https://ndyetz.github.io/Website/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Neil Yetz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://ndyetz.github.io/Website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://ndyetz.github.io/Website/tags/about/</link>
+      <link>https://example.org/tags/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/about/</guid>
+      <guid>https://example.org/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aviato</title>
-      <link>https://ndyetz.github.io/Website/tags/aviato/</link>
+      <link>https://example.org/tags/aviato/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/aviato/</guid>
+      <guid>https://example.org/tags/aviato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bachman</title>
-      <link>https://ndyetz.github.io/Website/tags/bachman/</link>
+      <link>https://example.org/tags/bachman/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/bachman/</guid>
+      <guid>https://example.org/tags/bachman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Belson</title>
-      <link>https://ndyetz.github.io/Website/tags/belson/</link>
+      <link>https://example.org/tags/belson/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/belson/</guid>
+      <guid>https://example.org/tags/belson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ceo</title>
-      <link>https://ndyetz.github.io/Website/tags/ceo/</link>
+      <link>https://example.org/tags/ceo/</link>
       <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/ceo/</guid>
+      <guid>https://example.org/tags/ceo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gavin</title>
-      <link>https://ndyetz.github.io/Website/tags/gavin/</link>
+      <link>https://example.org/tags/gavin/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/gavin/</guid>
+      <guid>https://example.org/tags/gavin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>https://ndyetz.github.io/Website/tags/hardware/</link>
+      <link>https://example.org/tags/hardware/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/hardware/</guid>
+      <guid>https://example.org/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hooli</title>
-      <link>https://ndyetz.github.io/Website/tags/hooli/</link>
+      <link>https://example.org/tags/hooli/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/hooli/</guid>
+      <guid>https://example.org/tags/hooli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pied Piper</title>
-      <link>https://ndyetz.github.io/Website/tags/pied-piper/</link>
+      <link>https://example.org/tags/pied-piper/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://ndyetz.github.io/Website/tags/pied-piper/</guid>
+      <guid>https://example.org/tags/pied-piper/</guid>
       <description></description>
     </item>
     
